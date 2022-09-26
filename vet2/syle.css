@@ -1,0 +1,30 @@
+body {
+    background-color: #00a3b4;
+}
+
+a {
+    font-size: 26px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+h2{
+    font-family: 'Space Mono', monospace;
+    color: 	#D8BFD8;
+    font-size: 40px;
+}
+
+h3{
+    font-family: 'Mali', cursive;
+    font-size: 18px;
+    color:white;
+}
+
+.pagamento {
+    padding: auto;
+    margin: 30px 25%;
+}
+
+iframe{
+    margin: 50px 25%;
+}
